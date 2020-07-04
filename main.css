@@ -162,7 +162,7 @@ header {
 header h1 {
 	color: #fff;
 	font-weight: bold;
-	background: url(desolve_logo.png) no-repeat left center;
+	background: url(*.png) no-repeat left center;
 	text-transform: uppercase;
 }
 
